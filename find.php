@@ -64,6 +64,8 @@ body {
 Barcode:<br>
 <input type="text" name="Barcode" autofocus><br><br>
 <input type="submit" value="submit" class="button" style="width:10%">
+<br>
+Internal Use
 </form>
 
 </body>
