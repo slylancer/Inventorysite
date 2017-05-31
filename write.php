@@ -1,4 +1,4 @@
-<?php 
+<php 
 if (isset($_POST['Barcode']))
 { 
 $Device = $_POST['Device']; 
